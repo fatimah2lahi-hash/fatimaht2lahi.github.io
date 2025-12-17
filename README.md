@@ -1,4 +1,4 @@
-# fatimaht2lahi.github.io<!doctype html>
+<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
@@ -283,9 +283,7 @@ p.cat {color:#9aa4b2;margin-bottom:24px;}
   <div class="card"><img src="c:\Users\admin\Desktop\vlog 2025\Capture d’écran 2025-11-25 181348.jpg" alt="Mockup 2"><strong></strong><div class="cat"></div></div>
   <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-27 205921.jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
    <div class="card"><img src="c:\Users\admin\Downloads\téléchargé (64).SVG).jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
-    <div class="card"><img src="c:\Users\admin\Downloads\minimalistic-business-card-mockup.png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
-    <div class="card"><img src="c:\Users\admin\Downloads\photorealistic-business-card-mockup.png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
-    <div class="card"><img src="c:\Users\admin\Downloads\simple-t-shirt-mockup (1).png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
+
   <div class="card"><img src="c:\Users\admin\Downloads\dasm cocoo.jpg" alt="Packaging 1"><strong></strong><div class="cat"></div></div>
   <div class="card"><img src="c:\Users\admin\Downloads\dasm cocoo dasm.jpg" alt="Packaging 2"><strong></strong><div class="cat"></div></div>
 </div>
@@ -293,7 +291,6 @@ p.cat {color:#9aa4b2;margin-bottom:24px;}
 
 <h2>Campagnes</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\ChatGPT Image 28 nov. 2025, 13_27_01.png" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
   <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 154626.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
   <div class="card"><img src="c:\Users\admin\Downloads\Pocket WiFi vs eSIM_ Which is better for Business Travel_ - Holiday Tours & Travel.jpg" alt="Campagne 3"><strong></strong><div class="cat">Campagne</div></div>
 </div>
@@ -361,4 +358,3 @@ p {color:#9aa4b2; line-height:1.6;}
 
 </body>
 </html>
-
