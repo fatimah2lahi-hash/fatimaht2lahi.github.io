@@ -182,7 +182,7 @@ nav a.active { color:#ef6f3c; }
 
   <div class="section">
     <h2>Mon CV</h2>
-    <a href="c:\Users\admin\Downloads\mon cv.pdf" class="btn btn-outline" target="_blank">Télécharger mon CV</a>
+    <a href="c:Users\admin\Downloads\cv.pdf" class="btn btn-outline" target="_blank">Télécharger mon CV</a>
   </div>
 </main>
 <title>Projets — Portfolio Graphiste</title>
@@ -226,14 +226,14 @@ p.cat {color:#9aa4b2;margin-bottom:24px;}
 <!-- Social Media -->
 <h2>Social Media</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\viande fondue.jpg" alt="Post 1"><strong></strong><div class="cat">Social Media</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\piment.jpg" alt="Post 2"><strong></strong><div class="cat">Social Media</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\intelligence artificielle dans le domaine educatif.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\offred.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\nuur café promo.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\gamou yoff.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\entreprenariat..jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\fadesign,.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\viande fondue.jpg" alt="Post 1"><strong></strong><div class="cat">Social Media</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\piment.jpg" alt="Post 2"><strong></strong><div class="cat">Social Media</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\intelligence artificielle dans le domaine educatif.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\offred.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\nuur café promo.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\gamou yoff.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\entreprenariat..jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\fadesign,.jpg" alt="Post 3"><strong></strong><div class="cat">Social Media</div></div>
 </div>
 
 
@@ -241,80 +241,83 @@ p.cat {color:#9aa4b2;margin-bottom:24px;}
 <!-- Flyers -->
 <h2>Flyers</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\show.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\fees.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\conte.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\concert.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\promo.jpg" alt="Flyer 3"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\affiche3.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\WhatsApp Image 2024-10-19 at 00.50.20.jpeg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
-    <div class="card"><img src="c:\Users\admin\Documents\affiches\affiches\FORMATION  DIGITAL copie.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\show.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\fees.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\conte.jpg" alt="Flyer 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\concert.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\promo.jpg" alt="Flyer 3"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\affiche3.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\WhatsApp Image 2024-10-19 at 00.50.20.jpeg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
+    <div class="card"><img src="c:Users\admin\Documents\affiches\affiches\FORMATION  DIGITAL copie.jpg" alt="Flyer 2"><strong></strong><div class="cat"></div></div>
 </div>
 <h2>Carrousel </h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\c1-100.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\c2-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\c3-100.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\1x\c4-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\c5-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\c6-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\c1-100.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\c2-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\c3-100.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\1x\c4-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\c5-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\c6-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
 </div>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\Plan de travail 1-100.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\Plan de travail 2-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\1x\Plan de travail 3-100.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\1x\Plan de travail 4-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Carrousel\1x\Plan de travail 4-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\Plan de travail 1-100.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\Plan de travail 2-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\1x\Plan de travail 3-100.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\1x\Plan de travail 4-100.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Carrousel\1x\Plan de travail 4-100.jpg" alt=""><strong></strong><div class="cat"></div></div>
 </div>
 <!-- Logos -->
 <h2>Logos</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\sama dekku waay.jpg" alt="Logo 1"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\baobab menuserie.jpg" alt="Logo 2"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\conception famillet logo presenta.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\logo fadesign.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\nuur café promo logo.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\DIMAT PRESTIGE fb LOGO.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\iadplomb.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\sama dekku waay.jpg" alt="Logo 1"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\baobab menuserie.jpg" alt="Logo 2"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\conception famillet logo presenta.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\logo fadesign.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\nuur café promo logo.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\DIMAT PRESTIGE fb LOGO.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\iadplomb.jpg" alt="Logo 3"><strong></strong><div class="cat">Logo</div></div>
 </div>
 <h2>packagins</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Desktop\vlog 2025\Capture d’écran 2025-11-25 181735.jpg" alt="Mockup 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Desktop\vlog 2025\Capture d’écran 2025-11-25 181348.jpg" alt="Mockup 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-27 205921.jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\téléchargé (64).SVG).jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
-
-  <div class="card"><img src="c:\Users\admin\Downloads\dasm cocoo.jpg" alt="Packaging 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\dasm cocoo dasm.jpg" alt="Packaging 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Desktop\vlog 2025\Capture d’écran 2025-11-25 181735.jpg" alt="Mockup 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Desktop\vlog 2025\Capture d’écran 2025-11-25 181348.jpg" alt="Mockup 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-27 205921.jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\téléchargé (64).SVG.jpg" alt="Mockup 3"><strong></strong><div class="cat"></div></div>
+    <div class="card"><img src="c:Users\admin\Downloads\minimalistic-business-card-mockup.png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
+    <div class="card"><img src="c:Users\admin\Downloads\photorealistic-business-card-mockup.png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
+    <div class="card"><img src="c:Users\admin\Downloads\simple-t-shirt-mockup (1).png" alt="Packaging 3"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\dasm cocoo.jpg" alt="Packaging 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\dasm cocoo dasm.jpg" alt="Packaging 2"><strong></strong><div class="cat"></div></div>
 </div>
 
 
 <h2>Campagnes</h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 154626.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Pocket WiFi vs eSIM_ Which is better for Business Travel_ - Holiday Tours & Travel.jpg" alt="Campagne 3"><strong></strong><div class="cat">Campagne</div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\ChatGPT Image 28 nov. 2025, 13_27_01.png" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 154626.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Pocket WiFi vs eSIM_ Which is better for Business Travel_ - Holiday Tours & Travel.jpg" alt="Campagne 3"><strong></strong><div class="cat">Campagne</div></div>
 </div>
 <h2>siteweb sur figma </h2>
 <div class="grid">
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 163725.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 163512.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 163128.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 165228.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 163349.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 163725.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 163512.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 163128.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 165228.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 163349.jpg" alt=""><strong></strong><div class="cat"></div></div>
 </div>
 <h2>Applications sur figma </h2>
 <div class="grid">
-      <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155151.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155238.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155356.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155455.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155604.jpg" alt=""><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-29 155658.jpg" alt=""><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 185103.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 185240.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 185457.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
-   <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 184454.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
-  <div class="card"><img src="c:\Users\admin\Downloads\Capture d’écran 2025-11-28 184751.jpg" alt=""><strong></strong><div class="cat"></div></div>
+      <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155151.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155238.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155356.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155455.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155604.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-29 155658.jpg" alt=""><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 185103.jpg" alt="Campagne 1"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 185240.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 185457.jpg" alt="Campagne 3"><strong></strong><div class="cat"></div></div>
+   <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 184454.jpg" alt="Campagne 2"><strong></strong><div class="cat"></div></div>
+  <div class="card"><img src="c:Users\admin\Downloads\Capture d’écran 2025-11-28 184751.jpg" alt=""><strong></strong><div class="cat"></div></div>
 </div>
 
 </main>
@@ -358,3 +361,4 @@ p {color:#9aa4b2; line-height:1.6;}
 
 </body>
 </html>
+
